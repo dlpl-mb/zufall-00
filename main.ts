@@ -2,7 +2,7 @@ input.onButtonPressed(Button.A, function () {
     basic.showNumber(kopf)
 })
 input.onButtonPressed(Button.AB, function () {
-    // Neustart
+    // Zurücksetzen bedeutet Neustart
     control.reset()
 })
 input.onButtonPressed(Button.B, function () {
