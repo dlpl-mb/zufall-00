@@ -10,6 +10,7 @@ input.onButtonPressed(Button.B, function () {
 })
 let kopf = 0
 let anzahl = 0
+basic.showIcon(IconNames.Heart)
 anzahl = 10000
 kopf = 0
 for (let index = 0; index < anzahl; index++) {
@@ -17,4 +18,4 @@ for (let index = 0; index < anzahl; index++) {
         kopf += 1
     }
 }
-basic.showString("Fertig")
+basic.showString("" + (kopf))
