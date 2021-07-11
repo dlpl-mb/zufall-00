@@ -1,5 +1,5 @@
 
-# Dem Zufall auf der Spurxx
+# Dem Zufall auf der Spurxxxxxx
 ## Münzenwerfen
 Eine Behauptung: Wenn man einen Münze oft genug wirft, dann erhält man etwa gleich viele Kopf und Zahlwürfe. 
 ![enter image description here](https://microbit.eeducation.at/images/thumb/1/11/Kopf_zahl.jpg/300px-Kopf_zahl.jpg)
