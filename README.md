@@ -1,5 +1,5 @@
 
-# Dem Zufall auf der Spur
+# Dem Zufall auf der Spurzzz
 ## Münzenwerfen
 Eine Behauptung: Wenn man einen Münze oft genug wirft, dann erhält man etwa gleich viele Kopf und Zahlwürfe. 
 ![enter image description here](https://microbit.eeducation.at/images/thumb/1/11/Kopf_zahl.jpg/300px-Kopf_zahl.jpg)
@@ -91,8 +91,8 @@ Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgener
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0Nzg5NzMyNCwzNTk4Mzk3NTgsMTAyMT
-AzNzE0NSwxOTYxNjM0MTE1LDc3MzA5OTUzMiwtODYwODMyMTQw
-LC0xNjI5ODgyNjgwLDE1NTg4OTIxNzIsLTExMzAxMjc5NDIsLT
-ExNjg2Njk5NTAsNzY4MDg2NjU4XX0=
+eyJoaXN0b3J5IjpbLTE2NzI5MjQ1NjMsLTk0Nzg5NzMyNCwzNT
+k4Mzk3NTgsMTAyMTAzNzE0NSwxOTYxNjM0MTE1LDc3MzA5OTUz
+MiwtODYwODMyMTQwLC0xNjI5ODgyNjgwLDE1NTg4OTIxNzIsLT
+ExMzAxMjc5NDIsLTExNjg2Njk5NTAsNzY4MDg2NjU4XX0=
 -->
